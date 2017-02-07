@@ -1,0 +1,25 @@
+{
+  "name": "frontend-angularjs-1",
+  "homepage": "",
+  "authors": [
+    "Yuriy Perevoznikov <yuriless@gmail.com>"
+  ],
+  "description": "Sampla project written with AngularJs v1.*",
+  "main": "main.js",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "lodash": "^4.17.4"
+  }
+}
